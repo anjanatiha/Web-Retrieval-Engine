@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pdf2text
+Version: 1.0.0
+Summary: A PDFMiner wrapper to ease the text extraction from pdf files.
+Home-page: https://github.com/syllabs/pdf2text
+Author: Jimmy Ma
+Author-email: ma@syllabs.com
+License: MIT/X
+Description: UNKNOWN
+Keywords: pdf,pdf2text,pdftotext
+Platform: UNKNOWN
+Classifier: Programming Language :: Python

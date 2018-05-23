@@ -1,0 +1,39 @@
+
+Assignment #7
+Due Date: Nov 16, 2017
+
+*************************************************************************
+Remember: Assignments must be turned in electronically (via email to the TA). 
+If a confirmation message is not received by noon the next day you must
+resend it immediately. In case of a programming assignment, you must be 
+careful about what to turn in. If some parts of the assignment are too large, 
+e.g. the output, then you only need to print your assignment report and source 
+code. Each assignment must have a cover page with your name, assignment number, 
+and due date. Also, please include the statements of all the problems. A
+report which summarizes your solution and results, in the form of a MS
+Word document or equivalent, must accompany an assignment submission.
+
+Any questions? Contact Dr. Vasile Rus at vrus@memphis.edu or by phone
+at 678-5259.
+
+*************************************************************************
+
+-------------------------------------------------------------------------
+
+Problem 1 [30 points]. 
+
+Develop a retrieval program that takes as input an user query in the form of 
+a set of keywords, uses the inverted index to retrieve documents containing
+at least one of the keywords, and then ranks these documents based on
+cosine values between query vector and document vectors. The output should be 
+a ranked list of documents with links to the original documents, i.e. URLs to
+the original documents on the web.
+
+Problem 2 [20 points]. 
+
+Develop a web interface to the program above.
+
+-------------------------------------------------------------------------
+
+
+
