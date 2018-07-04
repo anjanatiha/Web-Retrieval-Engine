@@ -1,4 +1,4 @@
-# Web Retrieval Engine Implementation for University Domain [Python, Django, Anaconda]
+# Web Retrieval Engine Implementation for University Domain
 # Implementation & Feature Details:	
 -	Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
 -	Used TF-IDF vector space model for webpage matching and cosine similarity function for webpage ranking.
