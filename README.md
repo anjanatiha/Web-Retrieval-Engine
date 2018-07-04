@@ -17,7 +17,7 @@
 1. To run Django server go to ”search_engine/search_engine_website”
 2. Open command prompt in the current directory of manage.py and type manage.py preceded
 by python.exe location and python in the follwoing manner:
-  - C:\Users\Anjana\Anaconda3\pythonmanage.pyrunserverserver (format->locationforpython.exe+python+manage.py)
+  1. C:\Users\Anjana\Anaconda3\pythonmanage.pyrunserverserver (format->locationforpython.exe+python+manage.py)
 3. To view web interface for search engine go to http://127.0.0.1:8000/
 
 ### Django Installation Steps:
