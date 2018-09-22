@@ -1,7 +1,8 @@
 # Web Retrieval Engine Implementation for University Domain
 
-#### Technology : Python, Django, Anaconda
-#### Duration   : Aug - Dec 17
+##### Domain             : Information Retrieval, Web Retrieval, Web Search
+##### Sub-Domain         : Search Engine, Natural Language Processing
+##### Techniques         : Vector Space Modeling, Query Operations, Relevance Ranking, Evaluation.
 
 ### Description:	
 1. Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
@@ -38,7 +39,11 @@ by python.exe location and python in the follwoing manner:
 2. Move to python directory or scripts directory in Anaconda.
 3. Please enter ”pip install Django” for installing Django.
 
-#### Tools Requirement: Anaconda, Python 
+##### Languages   : Python
+##### Tools/IDE   : Anaconda, Django
+##### Libraries   : Django
+##### Duration    : Aug - Dec 17
+
 
 Current Version  : v1.0.0.0
 
