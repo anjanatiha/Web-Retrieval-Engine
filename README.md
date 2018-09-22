@@ -1,9 +1,13 @@
-## Web Retrieval Engine Implementation for University Domain
+# Web Retrieval Engine Implementation for University Domain
+
+#### Technology : Python, Django, Anaconda
+#### Duration   : Aug - Dec 17
+
 ### Implementation & Feature Details:	
--	Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
--	Used TF-IDF vector space model for webpage matching and cosine similarity function for webpage ranking.
--	Developed modules - web crawler (incremental), text preprocessor(removes- (markup, metadata, uppercase, digits, punctuation, space,  stop words), tokenization, stemming), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall). 
-- Developed web interface using Django open-source web framework.
+1. Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
+2. Used TF-IDF vector space model for webpage matching and cosine similarity function for webpage ranking.
+3. Developed modules - web crawler (incremental), text preprocessor (removes- (markup, metadata, uppercase, digits, punctuation, space, stop words), tokenization, stemming), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall). 
+
 
 ### Instruction for Web Crawling and Vector Space Model Building:
 1. Go to search_engine/search_engine_website
@@ -25,3 +29,8 @@ by python.exe location and python in the follwoing manner:
 2. Move to python directory or scripts directory in Anaconda.
 3. Please enter ”pip install Django” for installing Django.
 
+#### Tools Requirement: Anaconda, Python 
+
+Current Version  : v1.0.0.0
+
+Last Update      : 12.01.2017
