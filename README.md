@@ -3,10 +3,16 @@
 #### Technology : Python, Django, Anaconda
 #### Duration   : Aug - Dec 17
 
-### Implementation & Feature Details:	
+### Description:	
 1. Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
 2. Used TF-IDF vector space model for webpage matching and cosine similarity function for webpage ranking.
 3. Developed modules - web crawler (incremental), text preprocessor (removes- (markup, metadata, uppercase, digits, punctuation, space, stop words), tokenization, stemming), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall). 
+
+#### Web Retrieval Engine Graphical Interface: 
+![alt text](https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png "")
+
+#### Sample Search:
+![alt text](https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/search.png "")
 
 
 ### Instruction for Web Crawling and Vector Space Model Building:
