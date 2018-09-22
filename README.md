@@ -10,12 +10,12 @@
 
 #### Web Retrieval Engine Graphical Interface: 
 <kbd>
-<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png>
+<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png width="200" height="400" >
 </kbd>
   
 #### Sample Search:
 <kbd>
-<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/search.png "">
+<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/search.png>
 </kbd>
 
 ### Instruction for Web Crawling and Vector Space Model Building:
