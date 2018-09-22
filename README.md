@@ -9,11 +9,14 @@
 3. Developed modules - web crawler (incremental), text preprocessor (removes- (markup, metadata, uppercase, digits, punctuation, space, stop words), tokenization, stemming), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall). 
 
 #### Web Retrieval Engine Graphical Interface: 
+<kbd>
 ![alt text](https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png "")
-
+<kbd>
+  
 #### Sample Search:
+<kbd>
 ![alt text](https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/search.png "")
-
+<kbd>
 
 ### Instruction for Web Crawling and Vector Space Model Building:
 1. Go to search_engine/search_engine_website
