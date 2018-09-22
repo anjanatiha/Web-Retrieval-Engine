@@ -10,7 +10,7 @@
 
 #### Web Retrieval Engine Graphical Interface: 
 <kbd>
-<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png width="200" height="400" >
+<img src=https://github.com/anjanatiha/Web-Retrieval-Engine/blob/master/Report/images/main.png width="800" height="600" >
 </kbd>
   
 #### Sample Search:
