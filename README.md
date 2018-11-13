@@ -5,9 +5,10 @@
 ##### Techniques         : Vector Space Modeling, Query Operations, Relevance Ranking, Evaluation.
 
 ### Description:	
-1. Developed vector space model based ad-hoc web retrieval engine and applied on 10, 000 webpages and docs (text, pdf, docx and pptx) fetched from University of Memphis domain (memphis.edu).
-2. Used TF-IDF vector space model for webpage matching and cosine similarity function for webpage ranking.
-3. Developed modules - web crawler (incremental), text preprocessor (removes- (markup, metadata, uppercase, digits, punctuation, space, stop words), tokenization, stemming), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall). 
+1. Developed vector space model based web retrieval engine for University of Memphis domain (memphis.edu).
+2. Crawled and preprocessed 10, 000 web pages and docs (text, pdf, docx and pptx) from University of Memphis domain.
+3. Built modules - web crawler (incremental), text preprocessor(removes- (markup, metadata, uppercase, digits, punctuation, space,  stop words), tokenize, stem from raw HTML/docs), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall).
+4. Used TF-IDF vector space model for web page matching and cosine similarity function for web page ranking.
 
 #### Web Retrieval Engine Graphical Interface: 
 <kbd>
