@@ -7,7 +7,7 @@
 ### Description:	
 1. Developed vector space model based web retrieval engine for University of Memphis domain (memphis.edu).
 2. Crawled and preprocessed 10, 000 web pages and docs (text, pdf, docx and pptx) from University of Memphis domain.
-3. Built modules - web crawler (incremental), text preprocessor(removes- (markup, metadata, uppercase, digits, punctuation, space,  stop words), tokenize, stem from raw HTML/docs), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall).
+3. Built modules - web crawler (incremental), text preprocessor (removes- (markup, metadata, uppercase, digits, punctuation, space,  stop words), tokenize, stem from raw HTML/docs), Indexer (doc-url, doc-term, term-doc), TF-IDF vector generator, webpage relevance ranker and performance evaluator (F1, precision, recall).
 4. Used TF-IDF vector space model for web page matching and cosine similarity function for web page ranking.
 
 #### Web Retrieval Engine Graphical Interface: 
@@ -43,8 +43,7 @@ by python.exe location and python in the follwoing manner:
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda, Django
 ##### Libraries   : Django
-##### Duration    : Aug - Dec 17
-
+##### Duration    : August - December 2017
 
 Current Version  : v1.0.0.0
 
